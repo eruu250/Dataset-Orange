@@ -1,0 +1,511 @@
+﻿Pendidikan;Kode Kemdagri;Kode BPS;Provinsi;Kepemilikan;Jumlah_Internet;Jumlah_Sekolah
+SD;11;11;Aceh;Negeri;2188;3335
+SD;11;11;Aceh;Swasta;156;197
+SD;12;12;Sumatera Utara;Negeri;5257;8167
+SD;12;12;Sumatera Utara;Swasta;1321;1584
+SD;13;13;Sumatera Barat;Negeri;2599;3892
+SD;13;13;Sumatera Barat;Swasta;272;314
+SD;14;14;Riau;Negeri;2426;3230
+SD;14;14;Riau;Swasta;498;585
+SD;15;15;Jambi;Negeri;1742;2304
+SD;15;15;Jambi;Swasta;136;160
+SD;16;16;Sumatera Selatan;Negeri;3253;4249
+SD;16;16;Sumatera Selatan;Swasta;404;470
+SD;17;17;Bengkulu;Negeri;826;1289
+SD;17;17;Bengkulu;Swasta;93;118
+SD;18;18;Lampung;Negeri;3156;4297
+SD;18;18;Lampung;Swasta;353;429
+SD;19;19;Kepulauan Bangka Belitung;Negeri;621;761
+SD;19;19;Kepulauan Bangka Belitung;Swasta;67;72
+SD;21;21;Kepulauan Riau;Negeri;555;683
+SD;21;21;Kepulauan Riau;Swasta;284;299
+SD;31;31;DKI Jakarta;Negeri;1270;1305
+SD;31;31;DKI Jakarta;Swasta;893;919
+SD;32;32;Jawa Barat;Negeri;14928;17104
+SD;32;32;Jawa Barat;Swasta;2277;2449
+SD;33;33;Jawa Tengah;Negeri;16070;17298
+SD;33;33;Jawa Tengah;Swasta;1267;1320
+SD;34;34;DI Yogyakarta;Negeri;1360;1422
+SD;34;34;DI Yogyakarta;Swasta;406;424
+SD;35;35;Jawa Timur;Negeri;15481;16902
+SD;35;35;Jawa Timur;Swasta;1917;2078
+SD;36;36;Banten;Negeri;3469;3853
+SD;36;36;Banten;Swasta;701;757
+SD;51;51;Bali;Negeri;2064;2254
+SD;51;51;Bali;Swasta;146;155
+SD;52;52;Nusa Tenggara Barat;Negeri;2377;3008
+SD;52;52;Nusa Tenggara Barat;Swasta;255;322
+SD;53;53;Nusa Tenggara Timur;Negeri;1896;3396
+SD;53;53;Nusa Tenggara Timur;Swasta;1112;1829
+SD;61;61;Kalimantan Barat;Negeri;2024;4140
+SD;61;61;Kalimantan Barat;Swasta;239;307
+SD;62;62;Kalimantan Tengah;Negeri;1386;2414
+SD;62;62;Kalimantan Tengah;Swasta;194;236
+SD;63;63;Kalimantan Selatan;Negeri;2164;2738
+SD;63;63;Kalimantan Selatan;Swasta;153;182
+SD;64;64;Kalimantan Timur;Negeri;1214;1657
+SD;64;64;Kalimantan Timur;Swasta;250;272
+SD;65;65;Kalimantan Utara;Negeri;227;437
+SD;65;65;Kalimantan Utara;Swasta;40;48
+SD;71;71;Sulawesi Utara;Negeri;813;1347
+SD;71;71;Sulawesi Utara;Swasta;535;862
+SD;72;72;Sulawesi Tengah;Negeri;1567;2675
+SD;72;72;Sulawesi Tengah;Swasta;163;269
+SD;73;73;Sulawesi Selatan;Negeri;4044;6070
+SD;73;73;Sulawesi Selatan;Swasta;304;364
+SD;74;74;Sulawesi Tenggara;Negeri;1395;2256
+SD;74;74;Sulawesi Tenggara;Swasta;75;91
+SD;75;75;Gorontalo;Negeri;639;897
+SD;75;75;Gorontalo;Swasta;28;34
+SD;76;76;Sulawesi Barat;Negeri;648;1297
+SD;76;76;Sulawesi Barat;Swasta;19;32
+SD;81;81;Maluku;Negeri;680;1277
+SD;81;81;Maluku;Swasta;237;538
+SD;82;82;Maluku Utara;Negeri;535;1111
+SD;82;82;Maluku Utara;Swasta;115;206
+SD;92;91;Papua Barat;Negeri;187;406
+SD;92;91;Papua Barat;Swasta;85;163
+SD;96;92;Papua Barat Daya;Negeri;159;302
+SD;96;92;Papua Barat Daya;Swasta;145;245
+SD;91;94;Papua;Negeri;208;487
+SD;91;94;Papua;Swasta;175;344
+SD;94;96;Papua Tengah;Negeri;79;291
+SD;94;96;Papua Tengah;Swasta;99;262
+SD;93;95;Papua Selatan;Negeri;135;372
+SD;93;95;Papua Selatan;Swasta;99;234
+SD;95;97;Papua Pegunungan;Negeri;61;513
+SD;95;97;Papua Pegunungan;Swasta;44;152
+SLB;11;11;Aceh;Negeri;26;30
+SLB;11;11;Aceh;Swasta;29;36
+SLB;12;12;Sumatera Utara;Negeri;24;29
+SLB;12;12;Sumatera Utara;Swasta;26;31
+SLB;13;13;Sumatera Barat;Negeri;25;29
+SLB;13;13;Sumatera Barat;Swasta;118;146
+SLB;14;14;Riau;Negeri;17;18
+SLB;14;14;Riau;Swasta;27;30
+SLB;15;15;Jambi;Negeri;13;16
+SLB;15;15;Jambi;Swasta;6;8
+SLB;16;16;Sumatera Selatan;Negeri;14;16
+SLB;16;16;Sumatera Selatan;Swasta;19;23
+SLB;17;17;Bengkulu;Negeri;14;15
+SLB;17;17;Bengkulu;Swasta;3;3
+SLB;18;18;Lampung;Negeri;11;13
+SLB;18;18;Lampung;Swasta;17;18
+SLB;19;19;Kepulauan Bangka Belitung;Negeri;5;7
+SLB;19;19;Kepulauan Bangka Belitung;Swasta;1;2
+SLB;21;21;Kepulauan Riau;Negeri;9;10
+SLB;21;21;Kepulauan Riau;Swasta;12;12
+SLB;31;31;DKI Jakarta;Negeri;13;13
+SLB;31;31;DKI Jakarta;Swasta;73;73
+SLB;32;32;Jawa Barat;Negeri;54;56
+SLB;32;32;Jawa Barat;Swasta;319;331
+SLB;33;33;Jawa Tengah;Negeri;41;41
+SLB;33;33;Jawa Tengah;Swasta;141;147
+SLB;34;34;DI Yogyakarta;Negeri;9;9
+SLB;34;34;DI Yogyakarta;Swasta;70;72
+SLB;35;35;Jawa Timur;Negeri;69;71
+SLB;35;35;Jawa Timur;Swasta;317;331
+SLB;36;36;Banten;Negeri;9;9
+SLB;36;36;Banten;Swasta;98;103
+SLB;51;51;Bali;Negeri;12;12
+SLB;51;51;Bali;Swasta;2;2
+SLB;52;52;Nusa Tenggara Barat;Negeri;17;19
+SLB;52;52;Nusa Tenggara Barat;Swasta;28;34
+SLB;53;53;Nusa Tenggara Timur;Negeri;24;35
+SLB;53;53;Nusa Tenggara Timur;Swasta;8;11
+SLB;61;61;Kalimantan Barat;Negeri;12;15
+SLB;61;61;Kalimantan Barat;Swasta;8;11
+SLB;62;62;Kalimantan Tengah;Negeri;17;20
+SLB;62;62;Kalimantan Tengah;Swasta;5;5
+SLB;63;63;Kalimantan Selatan;Negeri;22;22
+SLB;63;63;Kalimantan Selatan;Swasta;4;4
+SLB;64;64;Kalimantan Timur;Negeri;8;11
+SLB;64;64;Kalimantan Timur;Swasta;23;24
+SLB;65;65;Kalimantan Utara;Negeri;6;6
+SLB;65;65;Kalimantan Utara;Swasta;1;1
+SLB;71;71;Sulawesi Utara;Negeri;4;6
+SLB;71;71;Sulawesi Utara;Swasta;26;29
+SLB;72;72;Sulawesi Tengah;Negeri;13;16
+SLB;72;72;Sulawesi Tengah;Swasta;16;17
+SLB;73;73;Sulawesi Selatan;Negeri;22;23
+SLB;73;73;Sulawesi Selatan;Swasta;55;71
+SLB;74;74;Sulawesi Tenggara;Negeri;11;17
+SLB;74;74;Sulawesi Tenggara;Swasta;50;65
+SLB;75;75;Gorontalo;Negeri;7;8
+SLB;75;75;Gorontalo;Swasta;1;1
+SLB;76;76;Sulawesi Barat;Negeri;10;13
+SLB;76;76;Sulawesi Barat;Swasta;9;12
+SLB;81;81;Maluku;Negeri;11;11
+SLB;81;81;Maluku;Swasta;5;5
+SLB;82;82;Maluku Utara;Negeri;12;17
+SLB;82;82;Maluku Utara;Swasta;3;8
+SLB;92;91;Papua Barat;Negeri;1;1
+SLB;92;91;Papua Barat;Swasta;1;1
+SLB;96;92;Papua Barat Daya;Negeri;4;4
+SLB;96;92;Papua Barat Daya;Swasta;1;1
+SLB;91;94;Papua;Negeri;4;5
+SLB;91;94;Papua;Swasta;1;2
+SLB;94;96;Papua Tengah;Negeri;1;1
+SLB;94;96;Papua Tengah;Swasta;1;2
+SLB;93;95;Papua Selatan;Negeri;1;1
+SLB;93;95;Papua Selatan;Swasta;1;1
+SLB;95;97;Papua Pegunungan;Negeri;1;1
+SLB;95;97;Papua Pegunungan;Swasta;1;1
+SMP;11;11;Aceh;Negeri;674;903
+SMP;11;11;Aceh;Swasta;304;391
+SMP;12;12;Sumatera Utara;Negeri;981;1339
+SMP;12;12;Sumatera Utara;Swasta;1162;1348
+SMP;13;13;Sumatera Barat;Negeri;519;675
+SMP;13;13;Sumatera Barat;Swasta;159;183
+SMP;14;14;Riau;Negeri;689;874
+SMP;14;14;Riau;Swasta;345;395
+SMP;15;15;Jambi;Negeri;422;558
+SMP;15;15;Jambi;Swasta;128;150
+SMP;16;16;Sumatera Selatan;Negeri;716;908
+SMP;16;16;Sumatera Selatan;Swasta;461;530
+SMP;17;17;Bengkulu;Negeri;291;380
+SMP;17;17;Bengkulu;Swasta;62;77
+SMP;18;18;Lampung;Negeri;588;709
+SMP;18;18;Lampung;Swasta;630;746
+SMP;19;19;Kepulauan Bangka Belitung;Negeri;149;163
+SMP;19;19;Kepulauan Bangka Belitung;Swasta;61;69
+SMP;21;21;Kepulauan Riau;Negeri;201;236
+SMP;21;21;Kepulauan Riau;Swasta;168;179
+SMP;31;31;DKI Jakarta;Negeri;285;293
+SMP;31;31;DKI Jakarta;Swasta;742;777
+SMP;32;32;Jawa Barat;Negeri;1839;1982
+SMP;32;32;Jawa Barat;Swasta;3662;3963
+SMP;33;33;Jawa Tengah;Negeri;1697;1772
+SMP;33;33;Jawa Tengah;Swasta;1593;1674
+SMP;34;34;DI Yogyakarta;Negeri;208;214
+SMP;34;34;DI Yogyakarta;Swasta;231;240
+SMP;35;35;Jawa Timur;Negeri;1627;1737
+SMP;35;35;Jawa Timur;Swasta;2987;3259
+SMP;36;36;Banten;Negeri;528;573
+SMP;36;36;Banten;Swasta;968;1029
+SMP;51;51;Bali;Negeri;265;277
+SMP;51;51;Bali;Swasta;118;127
+SMP;52;52;Nusa Tenggara Barat;Negeri;472;604
+SMP;52;52;Nusa Tenggara Barat;Swasta;384;459
+SMP;53;53;Nusa Tenggara Timur;Negeri;863;1380
+SMP;53;53;Nusa Tenggara Timur;Swasta;337;453
+SMP;61;61;Kalimantan Barat;Negeri;704;1030
+SMP;61;61;Kalimantan Barat;Swasta;293;347
+SMP;62;62;Kalimantan Tengah;Negeri;482;714
+SMP;62;62;Kalimantan Tengah;Swasta;122;153
+SMP;63;63;Kalimantan Selatan;Negeri;442;522
+SMP;63;63;Kalimantan Selatan;Swasta;95;105
+SMP;64;64;Kalimantan Timur;Negeri;372;458
+SMP;64;64;Kalimantan Timur;Swasta;221;239
+SMP;65;65;Kalimantan Utara;Negeri;94;156
+SMP;65;65;Kalimantan Utara;Swasta;33;39
+SMP;71;71;Sulawesi Utara;Negeri;333;478
+SMP;71;71;Sulawesi Utara;Swasta;205;255
+SMP;72;72;Sulawesi Tengah;Negeri;496;734
+SMP;72;72;Sulawesi Tengah;Swasta;114;143
+SMP;73;73;Sulawesi Selatan;Negeri;863;1269
+SMP;73;73;Sulawesi Selatan;Swasta;370;444
+SMP;74;74;Sulawesi Tenggara;Negeri;444;694
+SMP;74;74;Sulawesi Tenggara;Swasta;74;95
+SMP;75;75;Gorontalo;Negeri;224;313
+SMP;75;75;Gorontalo;Swasta;24;29
+SMP;76;76;Sulawesi Barat;Negeri;191;319
+SMP;76;76;Sulawesi Barat;Swasta;33;59
+SMP;81;81;Maluku;Negeri;304;552
+SMP;81;81;Maluku;Swasta;97;144
+SMP;82;82;Maluku Utara;Negeri;212;373
+SMP;82;82;Maluku Utara;Swasta;92;146
+SMP;92;91;Papua Barat;Negeri;75;124
+SMP;92;91;Papua Barat;Swasta;34;40
+SMP;96;92;Papua Barat Daya;Negeri;83;123
+SMP;96;92;Papua Barat Daya;Swasta;52;58
+SMP;91;94;Papua;Negeri;113;189
+SMP;91;94;Papua;Swasta;61;80
+SMP;94;96;Papua Tengah;Negeri;39;101
+SMP;94;96;Papua Tengah;Swasta;48;70
+SMP;93;95;Papua Selatan;Negeri;52;94
+SMP;93;95;Papua Selatan;Swasta;21;36
+SMP;95;97;Papua Pegunungan;Negeri;42;152
+SMP;95;97;Papua Pegunungan;Swasta;23;45
+SMK;11;11;Aceh;Negeri;134;153
+SMK;11;11;Aceh;Swasta;59;69
+SMK;12;12;Sumatera Utara;Negeri;210;274
+SMK;12;12;Sumatera Utara;Swasta;643;685
+SMK;13;13;Sumatera Barat;Negeri;104;115
+SMK;13;13;Sumatera Barat;Swasta;88;97
+SMK;14;14;Riau;Negeri;120;138
+SMK;14;14;Riau;Swasta;152;168
+SMK;15;15;Jambi;Negeri;85;107
+SMK;15;15;Jambi;Swasta;69;74
+SMK;16;16;Sumatera Selatan;Negeri;108;121
+SMK;16;16;Sumatera Selatan;Swasta;187;193
+SMK;17;17;Bengkulu;Negeri;54;65
+SMK;17;17;Bengkulu;Swasta;34;38
+SMK;18;18;Lampung;Negeri;96;111
+SMK;18;18;Lampung;Swasta;350;386
+SMK;19;19;Kepulauan Bangka Belitung;Negeri;33;36
+SMK;19;19;Kepulauan Bangka Belitung;Swasta;22;23
+SMK;21;21;Kepulauan Riau;Negeri;31;36
+SMK;21;21;Kepulauan Riau;Swasta;64;68
+SMK;31;31;DKI Jakarta;Negeri;72;73
+SMK;31;31;DKI Jakarta;Swasta;469;488
+SMK;32;32;Jawa Barat;Negeri;277;288
+SMK;32;32;Jawa Barat;Swasta;2523;2625
+SMK;33;33;Jawa Tengah;Negeri;231;239
+SMK;33;33;Jawa Tengah;Swasta;1271;1302
+SMK;34;34;DI Yogyakarta;Negeri;49;50
+SMK;34;34;DI Yogyakarta;Swasta;153;156
+SMK;35;35;Jawa Timur;Negeri;285;297
+SMK;35;35;Jawa Timur;Swasta;1781;1850
+SMK;36;36;Banten;Negeri;84;91
+SMK;36;36;Banten;Swasta;601;633
+SMK;51;51;Bali;Negeri;54;57
+SMK;51;51;Bali;Swasta;107;113
+SMK;52;52;Nusa Tenggara Barat;Negeri;90;99
+SMK;52;52;Nusa Tenggara Barat;Swasta;198;230
+SMK;53;53;Nusa Tenggara Timur;Negeri;133;174
+SMK;53;53;Nusa Tenggara Timur;Swasta;129;169
+SMK;61;61;Kalimantan Barat;Negeri;96;117
+SMK;61;61;Kalimantan Barat;Swasta;100;116
+SMK;62;62;Kalimantan Tengah;Negeri;73;94
+SMK;62;62;Kalimantan Tengah;Swasta;41;45
+SMK;63;63;Kalimantan Selatan;Negeri;58;64
+SMK;63;63;Kalimantan Selatan;Swasta;63;64
+SMK;64;64;Kalimantan Timur;Negeri;76;88
+SMK;64;64;Kalimantan Timur;Swasta;118;129
+SMK;65;65;Kalimantan Utara;Negeri;17;22
+SMK;65;65;Kalimantan Utara;Swasta;10;12
+SMK;71;71;Sulawesi Utara;Negeri;68;92
+SMK;71;71;Sulawesi Utara;Swasta;79;100
+SMK;72;72;Sulawesi Tengah;Negeri;79;107
+SMK;72;72;Sulawesi Tengah;Swasta;58;75
+SMK;73;73;Sulawesi Selatan;Negeri;140;168
+SMK;73;73;Sulawesi Selatan;Swasta;212;238
+SMK;74;74;Sulawesi Tenggara;Negeri;65;102
+SMK;74;74;Sulawesi Tenggara;Swasta;43;66
+SMK;75;75;Gorontalo;Negeri;32;40
+SMK;75;75;Gorontalo;Swasta;17;19
+SMK;76;76;Sulawesi Barat;Negeri;45;60
+SMK;76;76;Sulawesi Barat;Swasta;53;70
+SMK;81;81;Maluku;Negeri;60;84
+SMK;81;81;Maluku;Swasta;32;36
+SMK;82;82;Maluku Utara;Negeri;41;63
+SMK;82;82;Maluku Utara;Swasta;38;87
+SMK;92;91;Papua Barat;Negeri;12;16
+SMK;92;91;Papua Barat;Swasta;5;5
+SMK;96;92;Papua Barat Daya;Negeri;12;16
+SMK;96;92;Papua Barat Daya;Swasta;19;22
+SMK;91;94;Papua;Negeri;27;35
+SMK;91;94;Papua;Swasta;13;14
+SMK;94;96;Papua Tengah;Negeri;11;16
+SMK;94;96;Papua Tengah;Swasta;27;35
+SMK;93;95;Papua Selatan;Negeri;14;21
+SMK;93;95;Papua Selatan;Swasta;3;4
+SMK;95;97;Papua Pegunungan;Negeri;4;10
+SMK;95;97;Papua Pegunungan;Swasta;4;9
+SMA;11;11;Aceh;Negeri;337;394
+SMA;11;11;Aceh;Swasta;125;145
+SMA;12;12;Sumatera Utara;Negeri;375;432
+SMA;12;12;Sumatera Utara;Swasta;577;635
+SMA;13;13;Sumatera Barat;Negeri;204;236
+SMA;13;13;Sumatera Barat;Swasta;93;102
+SMA;14;14;Riau;Negeri;275;313
+SMA;14;14;Riau;Swasta;142;154
+SMA;15;15;Jambi;Negeri;135;163
+SMA;15;15;Jambi;Swasta;70;84
+SMA;16;16;Sumatera Selatan;Negeri;284;330
+SMA;16;16;Sumatera Selatan;Swasta;255;283
+SMA;17;17;Bengkulu;Negeri;93;109
+SMA;17;17;Bengkulu;Swasta;32;42
+SMA;18;18;Lampung;Negeri;209;239
+SMA;18;18;Lampung;Swasta;262;288
+SMA;19;19;Kepulauan Bangka Belitung;Negeri;44;47
+SMA;19;19;Kepulauan Bangka Belitung;Swasta;26;27
+SMA;21;21;Kepulauan Riau;Negeri;82;93
+SMA;21;21;Kepulauan Riau;Swasta;68;75
+SMA;31;31;DKI Jakarta;Negeri;111;117
+SMA;31;31;DKI Jakarta;Swasta;363;379
+SMA;32;32;Jawa Barat;Negeri;503;514
+SMA;32;32;Jawa Barat;Swasta;1199;1254
+SMA;33;33;Jawa Tengah;Negeri;351;362
+SMA;33;33;Jawa Tengah;Swasta;484;499
+SMA;34;34;DI Yogyakarta;Negeri;68;69
+SMA;34;34;DI Yogyakarta;Swasta;101;104
+SMA;35;35;Jawa Timur;Negeri;409;423
+SMA;35;35;Jawa Timur;Swasta;1046;1094
+SMA;36;36;Banten;Negeri;154;161
+SMA;36;36;Banten;Swasta;422;446
+SMA;51;51;Bali;Negeri;82;90
+SMA;51;51;Bali;Swasta;69;73
+SMA;52;52;Nusa Tenggara Barat;Negeri;140;150
+SMA;52;52;Nusa Tenggara Barat;Swasta;186;215
+SMA;53;53;Nusa Tenggara Timur;Negeri;276;393
+SMA;53;53;Nusa Tenggara Timur;Swasta;184;218
+SMA;61;61;Kalimantan Barat;Negeri;223;285
+SMA;61;61;Kalimantan Barat;Swasta;156;187
+SMA;62;62;Kalimantan Tengah;Negeri;138;181
+SMA;62;62;Kalimantan Tengah;Swasta;53;64
+SMA;63;63;Kalimantan Selatan;Negeri;126;142
+SMA;63;63;Kalimantan Selatan;Swasta;62;65
+SMA;64;64;Kalimantan Timur;Negeri;121;145
+SMA;64;64;Kalimantan Timur;Swasta;85;92
+SMA;65;65;Kalimantan Utara;Negeri;37;46
+SMA;65;65;Kalimantan Utara;Swasta;21;22
+SMA;71;71;Sulawesi Utara;Negeri;101;121
+SMA;71;71;Sulawesi Utara;Swasta;84;108
+SMA;72;72;Sulawesi Tengah;Negeri;150;176
+SMA;72;72;Sulawesi Tengah;Swasta;53;58
+SMA;73;73;Sulawesi Selatan;Negeri;297;337
+SMA;73;73;Sulawesi Selatan;Swasta;235;270
+SMA;74;74;Sulawesi Tenggara;Negeri;181;251
+SMA;74;74;Sulawesi Tenggara;Swasta;52;64
+SMA;75;75;Gorontalo;Negeri;49;62
+SMA;75;75;Gorontalo;Swasta;8;9
+SMA;76;76;Sulawesi Barat;Negeri;54;77
+SMA;76;76;Sulawesi Barat;Swasta;12;15
+SMA;81;81;Maluku;Negeri;153;215
+SMA;81;81;Maluku;Swasta;60;73
+SMA;82;82;Maluku Utara;Negeri;78;139
+SMA;82;82;Maluku Utara;Swasta;44;85
+SMA;92;91;Papua Barat;Negeri;25;43
+SMA;92;91;Papua Barat;Swasta;20;21
+SMA;96;92;Papua Barat Daya;Negeri;30;43
+SMA;96;92;Papua Barat Daya;Swasta;25;29
+SMA;91;94;Papua;Negeri;40;57
+SMA;91;94;Papua;Swasta;47;56
+SMA;94;96;Papua Tengah;Negeri;17;28
+SMA;94;96;Papua Tengah;Swasta;22;28
+SMA;93;95;Papua Selatan;Negeri;17;22
+SMA;93;95;Papua Selatan;Swasta;9;15
+SMA;95;97;Papua Pegunungan;Negeri;17;44
+SMA;95;97;Papua Pegunungan;Swasta;10;18
+SLB;73;73;Sulawesi Selatan;Swasta;1;1
+SMK;31;31;DKI Jakarta;Negeri;183;273
+SLB;11;11;Aceh;Negeri;65;65
+SMP;61;61;Kalimantan Barat;Negeri;12;1082
+SMP;71;71;Sulawesi Utara;Swasta;40;152
+SMK;65;65;Kalimantan Utara;Negeri;47;280
+SLB;62;62;Kalimantan Tengah;Swasta;304;528
+SMA;63;63;Kalimantan Selatan;Swasta;17;17
+SMA;93;95;Papua Selatan;Swasta;94;94
+SD;72;72;Sulawesi Tengah;Swasta;66;126
+SMK;16;16;Sumatera Selatan;Swasta;139;139
+SD;53;53;Nusa Tenggara Timur;Swasta;26;26
+SLB;53;53;Nusa Tenggara Timur;Negeri;544;987
+SMK;72;72;Sulawesi Tengah;Swasta;9;9
+SLB;62;62;Kalimantan Tengah;Swasta;211;211
+SMA;15;15;Jambi;Swasta;11;11
+SLB;34;34;DI Yogyakarta;Negeri;29;436
+SD;81;81;Maluku;Swasta;742;3420
+SMA;13;13;Sumatera Barat;Swasta;835;1212
+SLB;94;96;Papua Tengah;Swasta;9;28
+SMK;12;12;Sumatera Utara;Swasta;1051;1051
+SMK;71;71;Sulawesi Utara;Swasta;2;739
+SLB;34;34;DI Yogyakarta;Negeri;22;22
+SD;92;91;Papua Barat;Swasta;44;113
+SMK;12;12;Sumatera Utara;Swasta;120;120
+SD;12;12;Sumatera Utara;Negeri;42;182
+SMA;16;16;Sumatera Selatan;Negeri;101;101
+SD;82;82;Maluku Utara;Negeri;22;61
+SLB;81;81;Maluku;Negeri;13;1189
+SMK;95;97;Papua Pegunungan;Swasta;414;414
+SMK;33;33;Jawa Tengah;Swasta;56;56
+SMP;35;35;Jawa Timur;Negeri;41;41
+SMK;33;33;Jawa Tengah;Negeri;11;11
+SMP;71;71;Sulawesi Utara;Swasta;28;28
+SMP;82;82;Maluku Utara;Negeri;340;412
+SLB;76;76;Sulawesi Barat;Negeri;1;18
+SMK;15;15;Jambi;Swasta;80;336
+SD;31;31;DKI Jakarta;Swasta;56;56
+SLB;17;17;Bengkulu;Negeri;111;240
+SD;17;17;Bengkulu;Swasta;55;1894
+SMP;75;75;Gorontalo;Swasta;59;59
+SMP;75;75;Gorontalo;Negeri;6;6
+SMA;11;11;Aceh;Swasta;561;3266
+SMP;64;64;Kalimantan Timur;Negeri;229;1203
+SD;71;71;Sulawesi Utara;Swasta;62;1679
+SD;92;91;Papua Barat;Negeri;14;14
+SMK;33;33;Jawa Tengah;Swasta;98;300
+SMK;11;11;Aceh;Swasta;52;52
+SMA;93;95;Papua Selatan;Negeri;4;418
+SLB;82;82;Maluku Utara;Negeri;150;150
+SLB;19;19;Kepulauan Bangka Belitung;Swasta;159;159
+SMP;72;72;Sulawesi Tengah;Swasta;226;226
+SD;96;92;Papua Barat Daya;Negeri;23;33
+SMA;51;51;Bali;Swasta;117;117
+SMK;76;76;Sulawesi Barat;Swasta;58;58
+SMP;34;34;DI Yogyakarta;Negeri;37;37
+SMP;18;18;Lampung;Swasta;6;6
+SMP;53;53;Nusa Tenggara Timur;Swasta;5;211
+SMA;62;62;Kalimantan Tengah;Negeri;8;61
+SD;11;11;Aceh;Negeri;11;266
+SMP;73;73;Sulawesi Selatan;Negeri;46;116
+SLB;74;74;Sulawesi Tenggara;Negeri;545;545
+SLB;82;82;Maluku Utara;Swasta;15;15
+SLB;15;15;Jambi;Swasta;12;12
+SMA;72;72;Sulawesi Tengah;Swasta;53;75
+SLB;34;34;DI Yogyakarta;Swasta;125;223
+SMK;92;91;Papua Barat;Swasta;18;18
+SD;63;63;Kalimantan Selatan;Swasta;142;142
+SMA;65;65;Kalimantan Utara;Swasta;157;317
+SD;14;14;Riau;Negeri;14;14
+SMA;15;15;Jambi;Negeri;56;56
+SD;75;75;Gorontalo;Swasta;43;43
+SMK;71;71;Sulawesi Utara;Negeri;107;1210
+SLB;71;71;Sulawesi Utara;Negeri;67;67
+SMK;63;63;Kalimantan Selatan;Swasta;4;1559
+SMK;21;21;Kepulauan Riau;Swasta;11;11
+SMK;91;94;Papua;Swasta;97;110
+SLB;31;31;DKI Jakarta;Swasta;135;135
+SD;19;19;Kepulauan Bangka Belitung;Negeri;65;65
+SMP;33;33;Jawa Tengah;Negeri;76;76
+SMK;32;32;Jawa Barat;Negeri;267;267
+SD;81;81;Maluku;Swasta;17;17
+SLB;61;61;Kalimantan Barat;Swasta;41;61
+SMK;64;64;Kalimantan Timur;Swasta;18;18
+SMP;61;61;Kalimantan Barat;Negeri;4;93
+SD;65;65;Kalimantan Utara;Negeri;79;283
+SLB;71;71;Sulawesi Utara;Negeri;4;8
+SD;12;12;Sumatera Utara;Swasta;270;725
+SMA;74;74;Sulawesi Tenggara;Negeri;227;227
+SMP;62;62;Kalimantan Tengah;Swasta;36;402
+SLB;18;18;Lampung;Swasta;67;130
+SMP;82;82;Maluku Utara;Swasta;1;1
+SMP;52;52;Nusa Tenggara Barat;Swasta;20;30
+SMK;75;75;Gorontalo;Swasta;1;8756
+SLB;33;33;Jawa Tengah;Negeri;55;55
+SMP;33;33;Jawa Tengah;Swasta;197;197
+SMP;63;63;Kalimantan Selatan;Swasta;26;1045
+SLB;52;52;Nusa Tenggara Barat;Swasta;13;13
+SLB;81;81;Maluku;Negeri;230;4233
+SLB;96;92;Papua Barat Daya;Swasta;57;139
+SMP;53;53;Nusa Tenggara Timur;Swasta;16;16
+SMK;64;64;Kalimantan Timur;Swasta;59;59
+SMP;17;17;Bengkulu;Swasta;348;348
+SMA;33;33;Jawa Tengah;Swasta;12;12
+SD;13;13;Sumatera Barat;Swasta;383;383
+SMP;14;14;Riau;Negeri;158;676
+SMP;35;35;Jawa Timur;Negeri;30;30
+SMK;15;15;Jambi;Negeri;14;18918
+SMP;94;96;Papua Tengah;Negeri;5;83
+SMA;65;65;Kalimantan Utara;Negeri;176;1065
+SMA;76;76;Sulawesi Barat;Swasta;31;31
+SMP;96;92;Papua Barat Daya;Negeri;13;13
+SMK;51;51;Bali;Negeri;70;70
+SD;65;65;Kalimantan Utara;Negeri;14;138
+SMK;12;12;Sumatera Utara;Swasta;29;586
+SMK;62;62;Kalimantan Tengah;Swasta;567;3785
+SMA;21;21;Kepulauan Riau;Negeri;187;187
+SD;14;14;Riau;Negeri;31;31
+SD;91;94;Papua;Swasta;78;82
+SMA;52;52;Nusa Tenggara Barat;Negeri;50;3789
+SMK;62;62;Kalimantan Tengah;Swasta;16;16
+SD;65;65;Kalimantan Utara;Swasta;23;23
+SMK;51;51;Bali;Swasta;1;1
+SMA;16;16;Sumatera Selatan;Swasta;13;1401
+SMP;65;65;Kalimantan Utara;Swasta;52;52
+SLB;75;75;Gorontalo;Negeri;15;15
+SMA;13;13;Sumatera Barat;Negeri;114;1437
+SMK;19;19;Kepulauan Bangka Belitung;Swasta;97;97
+SLB;72;72;Sulawesi Tengah;Negeri;51;2708
+SMA;21;21;Kepulauan Riau;Swasta;25;83
