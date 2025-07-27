@@ -6,3 +6,4 @@ Tugas Data Mining - IS1 <br>
 Muhamad Farrel Alfarizi (10522023) <br>
 Aydil Harsy Putra (10522021) <br>
 Aslam Ainul Yaqin (10522036) <br>
+Muhammad Dzikri Fathurramdan (10522027)  <br>
